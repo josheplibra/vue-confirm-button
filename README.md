@@ -1,4 +1,4 @@
-# Click Confirm
+# Vue Confirm Button
 
 > Convenient and elegant inline user confirmation of UI events.
 
