@@ -2,6 +2,10 @@
 
 > Convenient and elegant inline user confirmation of UI events.
 
+<a href="https://www.npmjs.com/package/vue-confirm-button">
+    <img alt="" src="https://img.shields.io/npm/dw/vue-confirm-button.svg?style=flat-square">
+</a>
+
 ## Dependencies
 - [VueJS](https://vuejs.org/) v2.0+
 - [Bootstrap-Vue](https://bootstrap-vue.js.org/) v1.0.2
