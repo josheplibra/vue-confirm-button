@@ -33,3 +33,4 @@ Not yet.
 
 ## Accreditations
 - Design and functionality is closely inspired by [Boostrap Confirmation](http://bootstrap-confirmation.js.org/) and [Click Confirm](https://github.com/SirLamer/click-confirm).
+- Test
